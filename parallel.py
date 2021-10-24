@@ -1,7 +1,7 @@
 import sys
 
 # Use
-#   alias factorTree='cd ~ && cd rootdir-scripts && cd factorTree && f(){pipenv run python3 factorTree.py "$1"; unset -f f; cd ~;}; f'
+#   alias ll='cd ~ && cd rootdir-scripts && cd parallel && f(){pipenv run python3 parallel.py "$@"; unset -f f; cd ~;}; f'
 # to run from terminal
 
 
